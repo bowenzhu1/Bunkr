@@ -1,0 +1,12 @@
+[submodule "Tic-Tac-Toe-Bot"]
+	path = Tic-Tac-Toe-Bot
+	url = https://github.com/bowenzhu1/Tic-Tac-Toe-Bot.git
+[submodule "Vm"]
+	path = Vm
+	url = https://github.com/bowenzhu1/Vm.git
+[submodule "Bunkr"]
+	path = Bunkr
+	url = https://github.com/bowenzhu1/hack-the-6ix.git
+[submodule "Gamified-Alarm"]
+	path = Gamified-Alarm
+	url = https://github.com/bowenzhu1/Hack-the-Valley-4.git
